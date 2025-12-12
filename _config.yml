@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Ronghua
+first_name: Xinyun
 middle_name:
-last_name: Xu
-email: ronghuax@mtu.edu # the email address (if blank, disable email in Social integration)
+last_name: Liu
+email: xinyunl@mtu.edu # the email address (if blank, disable email in Social integration)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://samuelxu999.github.io # the base hostname & protocol for your site
+url: https://Xinyun.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: samuelxu999
+github_username: Xinyun999
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: ronghua-xu-bu
+linkedin_username: #Xinyun-Liu-mtu
 telegram_username: # your Telegram user name
 scholar_userid: gKf0U28AAAAJ
 semanticscholar_id: # your Semantic Scholar ID
@@ -80,7 +80,7 @@ orcid_id: 0000-0002-9623-237X
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Ronghua-Xu-7
+research_gate_profile: 
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
