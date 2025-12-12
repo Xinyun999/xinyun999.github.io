@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: "Xinyun Liu"
-description: "My personal homepage"
-theme: jekyll-theme-cayman
+# title: "Xinyun Liu"
+# description: "My personal homepage"
+# theme: jekyll-theme-cayman
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xinyun
@@ -79,7 +79,7 @@ github_username: Xinyun999
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: #Xinyun-Liu-mtu
+linkedin_username: ronghua-xu-bu #Xinyun-Liu-mtu
 telegram_username: # your Telegram user name
 scholar_userid: gKf0U28AAAAJ
 semanticscholar_id: # your Semantic Scholar ID
