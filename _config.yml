@@ -1,6 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+title: "Xinyun Liu"
+description: "My personal homepage"
+theme: jekyll-theme-cayman
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xinyun
@@ -27,9 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Theme
 # -----------------------------------------------------------------------------
 
-title: "Xinyun Liu"
-description: "My personal homepage"
-theme: jekyll-theme-cayman
+
 
 
 
